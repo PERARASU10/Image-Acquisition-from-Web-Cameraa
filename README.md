@@ -1,4 +1,4 @@
-![image](https://github.com/PERARASU10/Image-Acquisition-from-Web-Cameraa/assets/118348589/3c28c6fc-13f4-40ad-9192-a55a0e6bd10b)# Image-Acquisition-from-Web-Cameraa
+# Image-Acquisition-from-Web-Cameraa
 ## Aim
  
 Aim:
